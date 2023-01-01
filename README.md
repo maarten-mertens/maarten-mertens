@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+this is my personal github page. Here you can find my notes on various ICT topics.
+
 <!--
 **maarten-mertens/maarten-mertens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
